@@ -6,3 +6,5 @@
 <img width="959" alt="스크린샷 2020-02-16 오후 8 11 51" src="https://user-images.githubusercontent.com/47182864/74603604-ae069580-50f8-11ea-8088-0f3ec19ca532.png">
 <img width="949" alt="스크린샷 2020-02-16 오후 8 15 03" src="https://user-images.githubusercontent.com/47182864/74603643-12295980-50f9-11ea-8ab0-ef076d171829.png">
 
+## 실행 영상
+https://youtu.be/D21h93k78Gs
